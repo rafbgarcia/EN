@@ -1,14 +1,11 @@
 ## Food Stand
 
-![Cursor_and_rafa_Rafaels-MacBook-Pro___repos_food_stand](https://user-images.githubusercontent.com/1904314/181935764-9d5f7d7e-1bca-4cea-9936-7b7a1e466e06.png)
-
+![food_stand](https://user-images.githubusercontent.com/1904314/181935764-9d5f7d7e-1bca-4cea-9936-7b7a1e466e06.png)
 
 ### Assumptions
 
-Note: some aspects were simplified for the purpose of keeping this exercise short.
-
-- This is an end-user-facing API for searching for the closest place given a starting point and some filters
-- The list of places is not big enough to cause performance issues
+- This functionality will be used for searching for the closest place to a given starting point
+- Performance is being ignored as I don't have information such as throughput and dataset size
 - The search is limited by exact match case insensitive
 - The UI search form:
   - The text field for the starting point. e.g. `union square`
