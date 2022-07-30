@@ -1,3 +1,6 @@
+![Cursor_and_rafa_Rafaels-MacBook-Pro___repos_food_stand](https://user-images.githubusercontent.com/1904314/181935764-9d5f7d7e-1bca-4cea-9936-7b7a1e466e06.png)
+
+
 ### Assumptions
 
 Note: some aspects were simplified for the purpose of keeping this exercise short.
