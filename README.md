@@ -4,8 +4,8 @@
 
 ### Assumptions
 
-- This functionality will be used for searching for the closest place to a given starting point
-- Performance is being ignored as I don't have information such as throughput and dataset size
+- This functionality will be used by end-users for searching for the closest place to a given starting point
+- Performance constraints are being ignored as I don't have information such as throughput and dataset size. Ignoring some aspects, the code runs linear time based on the dataset size.
 - The search is limited by exact match case insensitive
 - The UI search form:
   - The text field for the starting point. e.g. `union square`
@@ -15,7 +15,7 @@
 
 ### Code and API Design
 
-#### Client-side request payload
+#### Payload coming from the client
 
 User searches for the open japanese truck food closest to union square
 
