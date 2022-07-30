@@ -55,6 +55,6 @@ The API is flexible and easily extensible by filtering records based on matchers
 
 Non-handled matchers and data types raise errors instead of swallowing them for a better developer experience.
 
-You will notice the use of pure functions and encapsulation that facilitates maintainability.
+You will notice the use of pure functions and encapsulation that facilitates maintainability. The code is clean and clear with concise functions and meaningful names.
 
-I kept the implementation speed in mind but since I had no context on list size or performance constraints I decided to have a quick, functional, maintainable implementation at first, measure and optimize as needed later.
+I kept performance in mind but without context on constraints, my focus was to build a quick, functional, and maintainable code. Measure and optimize as needed later.
