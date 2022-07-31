@@ -5,7 +5,7 @@
 ### Assumptions
 
 - This functionality will be used by end-users for searching for the closest place to a given starting point
-- Time and space constraints are being ignored as I don't have information such as throughput and dataset size. The code runs in O(n * m) where n = dataset size and m = destination filters size.
+- No time and space constraints
 - The search is limited by exact match case insensitive
 - The UI search form:
   - The text field for the starting point. e.g. `union square`
